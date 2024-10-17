@@ -80,7 +80,7 @@ O **SafeGyn** foi apresentado durante o **II CodeCraft**, um evento organizado p
 
 - **Nome**: Saulo Sousa
 - **E-mail**: saulo.silva3008@gmail.com
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **LinkedIn**: [[Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/saulo-sousa-963a51189/)
 - **Instituição**: [PUC Goiás](https://www.pucgoias.edu.br/)
 
 ---
