@@ -1,4 +1,4 @@
-# ![PUC-GO Logo]([https://www.pucgoias.edu.br/wp-content/themes/puc-goias/images/logo_header.png](https://www.pucgoias.edu.br/wp-content/uploads/2020/08/puc-goias.svg)  
+# ![PUC-GO Logo](https://www.pucgoias.edu.br/wp-content/uploads/2020/08/puc-goias.svg)  
 ### SafeGyn - II CodeCraft 2024
 
 **SafeGyn** é um aplicativo desenvolvido como parte da minha participação no **II CodeCraft**, um evento de inovação e tecnologia promovido pela **PUC Goiás**. O objetivo do **SafeGyn** é fornecer uma plataforma de monitoramento e simulação de situações de risco de inundação e rompimento de barragens na cidade de **Goiânia**, com foco em segurança e planejamento.
@@ -80,7 +80,7 @@ O **SafeGyn** foi apresentado durante o **II CodeCraft**, um evento organizado p
 
 - **Nome**: Saulo Sousa
 - **E-mail**: saulo.silva3008@gmail.com
-- **LinkedIn**: [[Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/saulo-sousa-963a51189/)
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/saulo-sousa-963a51189/)
 - **Instituição**: [PUC Goiás](https://www.pucgoias.edu.br/)
 
 ---
